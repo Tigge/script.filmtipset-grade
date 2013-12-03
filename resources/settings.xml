@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Account Settings">
+        <setting label="User Key" type="text" id="key" default=""/>
+        <setting label="User ID" type="number" id="user" default=""/>
+    </category>
+</settings>
